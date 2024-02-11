@@ -1,5 +1,10 @@
-# Sys-UP-Light
-## Green Motion
+# DAT4 - SYS
+
+Philip - Github: https://github.com/PhilipHatley
+Martin - Github: https://github.com/martinthuren
+
+
+# Beskrivelse af projektet: 
 
 Vores idé er at skabe en grønnere planet samt gøre dine lommer dybere ved at give en oversigt over besparelser. 
 
