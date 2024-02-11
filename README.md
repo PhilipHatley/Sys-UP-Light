@@ -20,6 +20,6 @@ Tidsbesparende
 
 
 
-![Billede af usercases] ([P-Light US-C.png](https://github.com/PhilipHatley/Sys-UP-Light/blob/main/UP-Light%20US-C.png?raw=true)
+![Billede af usercases](https://github.com/PhilipHatley/Sys-UP-Light/blob/main/UP-Light%20US-C.png?raw=true)
 
 
