@@ -1,7 +1,7 @@
 # DAT4 - SYS
 
-[Philip](https://github.com/PhilipHatley)
-[Martin](https://github.com/martinthuren)
+- [Philip](https://github.com/PhilipHatley)
+* [Martin](https://github.com/martinthuren)
 
 
 # Beskrivelse af projektet: 
