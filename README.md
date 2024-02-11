@@ -1,7 +1,7 @@
 # DAT4 - SYS
 
-Philip - Github: [GitHub Pages]([https://pages.github.com/](https://github.com/PhilipHatley))
-Martin - Github: [GitHub Pages]([[https://pages.github.com/](https://github.com/PhilipHatley)](https://github.com/martinthuren))
+[Philip](https://github.com/PhilipHatley)
+[Martin](https://github.com/martinthuren)
 
 
 # Beskrivelse af projektet: 
